@@ -16,6 +16,12 @@ Languages: Swift, Python, Javascript, Database (MySQL).
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mung4i&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mung4i&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mung4i&layout=compact&theme=dracula)](https://git.io/streak-stats)
+
+<br />
+
 # 💻 Technologies
 
 Swift [4, 5+, UIKit, MVP/VIPER/MVVM, Autolayout, GCD/Operations/Concurrency, Alamofire, SwiftLint], SwiftUI [iOS, macOS], Realm, Lottie, JWT, CryptoSwift, RxSwift, REST, Firebase, Angular, CSS, XCTest, Objective-C, iOS [10;12;13;14+], Zeplin, Figma, Sketch.
