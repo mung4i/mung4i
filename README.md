@@ -18,7 +18,7 @@ Languages: Swift, Python, Javascript, Database (MySQL).
 
 # 💻 Technologies
 
-Swift [4, 5+, UIKit, MVP/VIPER/MVVM, Autolayout, GCD/Operations/Concurrency, Alamofire, SwiftLint], SwiftUI [iOS, macOS], Realm, Lottie, JWT, CryptoSwift, RxSwift, REST, Firebase, Angular, CSS, XCTest, Objective-C, iOS [10;12;13;14+], Localization (Phrase/json/i18next), Zeplin, Figma, Sketch.
+Swift [4, 5+, UIKit, MVP/VIPER/MVVM, Autolayout, GCD/Operations/Concurrency, Alamofire, SwiftLint], SwiftUI [iOS, macOS], Realm, Lottie, JWT, CryptoSwift, RxSwift, REST, Firebase, Angular, CSS, XCTest, Objective-C, iOS [10;12;13;14+], Zeplin, Figma, Sketch.
 
 
 <br/>
