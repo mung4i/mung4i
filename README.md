@@ -12,6 +12,8 @@
 
 # Martin Mungai | Senior iOS Engineer
 
+Martin is a result-driven iOS Engineer with 6 years of experience in harnessing the power of mobile technology to deliver superior user experiences. With a profound understanding of iOS fundamentals and architecture, he possesses exceptional proficiency in the Swift language, adept at creating solutions that engage users and advance business objectives. His technical understanding extends beyond the parameters of iOS development. With a proven track record in software testing, he guarantees the development of sturdy and efficient applications. Martin also prioritizes keeping up with the latest trends and innovations in the technology industry.
+
 Languages: Swift, Python, Javascript, Database (MySQL).
 
 <br />
